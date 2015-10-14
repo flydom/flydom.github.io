@@ -1,11 +1,18 @@
 ---
 layout: page
-title: About
+title: 关于
 disqus: false
 ---
 
 
-###博客事记
+### 博客事记
+
+
+
+
+
+
+**未完待续...**
 
 **2015.10.14 #** 更换了Scribble主题风格...
 
@@ -23,7 +30,8 @@ disqus: false
 
 很久很久以前，作为从一个Linux起家的开发者，不识Web开发为何物...
 
-### 手迹,开始的地方...
+### 手迹...
 
 
-----------------  [Built with Jekyll using Scribble theme](https://github.com/muan/scribble)  ----------------
+
+
