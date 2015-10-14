@@ -4,14 +4,26 @@ title: About
 disqus: false
 ---
 
-## Create by Mu-An
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+###博客事记
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+**2015.10.14 #** 更换了Scribble主题风格...
 
-This theme is made by me. You have a nice day. ♥
+**2015.10.10 #** RubyConf China 2015大会开始的同一天，入门了Jekyll，第一次搭建了个人静态博客...
 
-## Modify by Rei
+**2015.09.13 #** 从Ruby China的一个新手贴开始...
 
-http://chloerei.com
+**2015.09.04 #** 加入Ruby China社区...
+
+于是，有了然后...
+
+开始了一种叫做Ruby语言的接触...
+
+直到有一天，接到一个Web工具的维护任务...
+
+很久很久以前，作为从一个Linux起家的开发者，不识Web开发为何物...
+
+### 手迹,开始的地方...
+
+
+----------------  [Built with Jekyll using Scribble theme](https://github.com/muan/scribble)  ----------------
