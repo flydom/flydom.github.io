@@ -1,6 +1,6 @@
 title:            Fun
 description:      Try and learn. Just for fun.
-url:              # Site url.
+url:              http://flydom.github.io# Site url.
 baseurl:          # Base url. ( if use subdirectory-like URL )
 signoff:          Fun # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -9,11 +9,8 @@ google_analytics_id: # set tracking, UA-XXXX-Y.
 links:
   - name:         关于
     url:          /about
- # - name:         Feed
- #   url:          /feed.xml
-  - name:         目录
-    url:          http://flydom.github.io
-    external:     true
+  - name:         Feed
+    url:          /feed.xml
   - name:         CSDN
     url:          http://blog.csdn.net/fzy0201
     external:     true
