@@ -13,14 +13,14 @@ links:
     url:          /index.html
   - name:         分类
     url:          /404.html
-  - name:         Feed
-    url:          /feed.xml
   - name:         CSDN
     url:          http://blog.csdn.net/fzy0201
     external:     true
   - name:         GitHub
     url:          http://github.com/flydom
     external:     true
+  - name:         Feed
+    url:          /feed.xml
 
 pygments:         true
 permalink:        pretty
