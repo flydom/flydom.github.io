@@ -6,6 +6,7 @@ signoff:             Fun # Your name.
 disqus_shortname:    # disqus comment thread for post header options. ( leave blank if unwanted. )
 duoshuo_shortname:   funblog# duoshuo comment thread for post header options. ( leave blank if unwanted. )
 google_analytics_id: # set tracking, UA-XXXX-Y.
+categories_seperator: '，'
 
 links:
   - name:         关于
