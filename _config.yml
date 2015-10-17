@@ -3,7 +3,8 @@ description:      Try and learn. Just for fun.
 url:              http://flydom.github.io# Site url.
 baseurl:          # Base url. ( if use subdirectory-like URL )
 signoff:          Fun # Your name.
-disqus_shortname: rubyfun# disqus comment thread for post header options. ( leave blank if unwanted. )
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+duoshuo_shortname: funblog# duoshuo comment thread for post header options. ( leave blank if unwanted. )
 google_analytics_id: # set tracking, UA-XXXX-Y.
 
 links:

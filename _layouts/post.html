@@ -21,6 +21,9 @@
       {% if site.disqus_shortname and page.disqus != false %}
         {% include disqus.html %}
       {% endif %}
+      {% if site.duoshuo_shortname and page.duoshuo != false %}
+        {% include duoshuo.html %}
+      {% endif %}
       {% include links.html %}
     </div>
     {% include footer.html %}
