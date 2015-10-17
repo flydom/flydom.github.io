@@ -10,9 +10,7 @@ google_analytics_id: # set tracking, UA-XXXX-Y.
 links:
   - name:         关于
     url:          /about
-  - name:         目录
-    url:          /index.html
-  - name:         分类
+  - name:         文章
     url:          /404.html
   - name:         CSDN
     url:          http://blog.csdn.net/fzy0201
