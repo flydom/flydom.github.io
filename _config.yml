@@ -11,7 +11,7 @@ links:
   - name:         关于
     url:          /about
   - name:         文章
-    url:          /categories.html
+    url:          /index.html
   - name:         CSDN
     url:          http://blog.csdn.net/fzy0201
     external:     true
