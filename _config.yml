@@ -9,10 +9,10 @@ google_analytics_id: # set tracking, UA-XXXX-Y.
 links:
   - name:         关于
     url:          /about
-  - name:         待定
-    url:          /about
-  - name:         待定
-    url:          /about
+  - name:         目录
+    url:          /index.html
+  - name:         分类
+    url:          /404.html
   - name:         Feed
     url:          /feed.xml
   - name:         CSDN
