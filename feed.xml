@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fun的博客</title>
+    <description>Try and learn. Just for fun.</description>
+    <link>http://flydom.github.io# Site url.</link>
+    <atom:link href="http://flydom.github.io# Site url./feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>cate_1 test</title>
+        <description>&lt;ul&gt;
+&lt;li&gt;测试分类标签&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;测试分类标签&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;测试分类标签&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;测试分类标签&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 17 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://flydom.github.io# Site url./cate_1/2015/10/17/cate_1-test/</link>
+        <guid isPermaLink="true">http://flydom.github.io# Site url./cate_1/2015/10/17/cate_1-test/</guid>
+      </item>
+    
+      <item>
+        <title>test post</title>
+        <description></description>
+        <pubDate>Wed, 14 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://flydom.github.io# Site url./2015/10/14/test-post/</link>
+        <guid isPermaLink="true">http://flydom.github.io# Site url./2015/10/14/test-post/</guid>
+      </item>
+    
+  </channel>
+</rss>
