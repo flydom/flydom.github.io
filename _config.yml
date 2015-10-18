@@ -27,3 +27,4 @@ permalink:        pretty
 markdown:         redcarpet
 redcarpet:
   extensions:     [autolink, tables]
+
